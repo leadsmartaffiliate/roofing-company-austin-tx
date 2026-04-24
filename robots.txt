@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofing-company-austin-tx.netlify.app/sitemap.xml
